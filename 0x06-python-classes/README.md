@@ -5,7 +5,6 @@
 > comparator methods (```!=``` ```__ne__```, ```==``` ```__eq__```, ```>=``` ```__ge__```, ```>``` ```__gt__```, ```<``` ```__lt__```, ```<=``` ```__lt__```)
 
 ### Description of what each file shows:
-* test_files ----- folder holds test files that showcase examples of how to use functions
 * Files that start with:
 0. create empty square class and build on this class in next files
 1. add private attribute size
